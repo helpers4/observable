@@ -13,9 +13,7 @@
     "observale",
     "typescript",
     "tree-shaking",
-    "remove-ending-slash",
-    "add-leading-slash",
-    "extract-pure-uri"
+    "combine"
   ],
   "scripts": {
     "build": "run-p build:*",
