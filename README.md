@@ -14,5 +14,8 @@ A set of helpers for working with observables.
 ## See
 
 - [@helpers4/observable](https://www.npmjs.com/package/@helpers4/observable)
+- [@helpers4/promise](https://www.npmjs.com/package/@helpers4/promise)
 - [@helpers4/string](https://www.npmjs.com/package/@helpers4/string)
 - [@helpers4/url](https://www.npmjs.com/package/@helpers4/url)
+
+## Contributors
