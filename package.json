@@ -1,16 +1,16 @@
 {
-  "name": "@helpers4/observale",
+  "name": "@helpers4/observable",
   "version": "1.0.1",
-  "description": "A set of helpers in TS/JS, compatible with tree-shaking, which helps you to manipulate observales.",
+  "description": "A set of helpers in TS/JS, compatible with tree-shaking, which helps you to manipulate observables.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/helpers4/observale",
+  "repository": "https://github.com/helpers4/observable",
   "license": "AGPL-3.0",
   "keywords": [
     "helper",
     "string",
-    "observale",
+    "observable",
     "typescript",
     "tree-shaking",
     "combine"
